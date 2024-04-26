@@ -12,9 +12,9 @@ Fundada em 2010 por um grupo de entusiastas da tecnologia, a TechSolutions Innov
 
 ## Lista de Clientes
 
-- **Empresa ABC**: Líder global no setor de manufatura. Fornecemos soluções de automação de processos que aumentaram sua eficiência operacional em 30%.
+- **Empresa Abbot Chppins**: Líder global no setor de manufatura. Fornecemos soluções de automação de processos que aumentaram sua eficiência operacional em 30%.
 
-- **Startup XYZ**: Uma startup promissora no setor de saúde. Desenvolvemos um aplicativo móvel personalizado que otimizou seus serviços de telemedicina, alcançando um aumento de 50% no número de pacientes atendidos.
+- **Startup Xyzeks**: Uma startup promissora no setor de saúde. Desenvolvemos um aplicativo móvel personalizado que otimizou seus serviços de telemedicina, alcançando um aumento de 50% no número de pacientes atendidos.
 
-- **Corporação QRS**: Uma empresa de consultoria financeira. Implementamos um sistema de análise de dados avançado que melhorou sua capacidade de tomada de decisão e aumentou a eficiência em 40%.
+- **Corporação Qoors**: Uma empresa de consultoria financeira. Implementamos um sistema de análise de dados avançado que melhorou sua capacidade de tomada de decisão e aumentou a eficiência em 40%.
 
